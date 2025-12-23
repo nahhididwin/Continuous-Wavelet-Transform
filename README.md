@@ -3,6 +3,9 @@ This explanation of Continuous Wavelet Transform (CWT) unifies most of the conce
 
 This helps learners use CWT with just paper, a pen, and a Casio FX 580VNX ClassWiz calculator.
 
+Warning: All information here may contain errors, and the author is not an expert at the time of writing. Despite having undergone thorough testing.
+
+
 
 # Index :
 
