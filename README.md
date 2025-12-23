@@ -27,6 +27,7 @@ Date posted: 23/12/2025 (DD/MM/YYYY)
 
 **Mother Wavelet Type1:**
 
+1 : https://github.com/nahhididwin/Continuous-Wavelet-Transform/blob/main/a1/a1_5.md
 
 **Complex union (conjugate of the mother wavelet):**
 
