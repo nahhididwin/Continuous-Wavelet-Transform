@@ -5,7 +5,7 @@ This helps learners use CWT with just paper, a pen, and a Casio FX 580VNX ClassW
 
 Warning: All information here may contain errors, and the author is not an expert at the time of writing. Despite having undergone thorough testing.
 
-
+Date posted: 23/12/2025 (DD/MM/YYYY)
 
 # Index :
 
