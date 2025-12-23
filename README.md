@@ -9,6 +9,37 @@ Date posted: 23/12/2025 (DD/MM/YYYY)
 
 # Index :
 
+**Start:**
+
+**Imaginary number:**
+
+**Complex number:**
+
+**Methods of representing information:**
+
+**Integral:**
+
+**Mother Wavelet Type1:**
+
+
+**Complex union (conjugate of the mother wavelet):**
+
+**Euler Formula:**
+
+**Amplitude and Phase:**
+
+**Mother Wavelet Type2:**
+
+**CWT formula, and explanation:**
+
+**Use CWT:**
+
+**End:**
+
+**
+
+
+
 # Author :
 
 Github : https://github.com/nahhididwin
