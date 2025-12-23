@@ -6,4 +6,4 @@ This explanation of Continuous Wavelet Transform (CWT) unifies most of the conce
 
 # Author :
 
-https://github.com/nahhididwin
+Github : https://github.com/nahhididwin
