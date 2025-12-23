@@ -30,6 +30,8 @@ Date posted: 23/12/2025 (DD/MM/YYYY)
 
 **Complex union (conjugate of the mother wavelet):**
 
+1: https://github.com/nahhididwin/Continuous-Wavelet-Transform/blob/main/a1/a1_4.md
+
 **Euler Formula:**
 
 **Amplitude and Phase:**
