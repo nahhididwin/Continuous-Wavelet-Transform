@@ -15,6 +15,8 @@ Date posted: 23/12/2025 (DD/MM/YYYY)
 
 **Imaginary number:**
 
+1: https://github.com/nahhididwin/Continuous-Wavelet-Transform/blob/main/a1/a1_2.md
+
 **Complex number:**
 
 **Methods of representing information:**
