@@ -39,6 +39,8 @@ Date posted: 23/12/2025 (DD/MM/YYYY)
 
 **Amplitude and Phase:**
 
+1: https://github.com/nahhididwin/Continuous-Wavelet-Transform/blob/main/a1/a1_8.md
+
 **Mother Wavelet Type2:**
 
 1: https://github.com/nahhididwin/Continuous-Wavelet-Transform/blob/main/a1/a1_6.md
