@@ -47,7 +47,9 @@ Date posted: 23/12/2025 (DD/MM/YYYY)
 
 **CWT formula, and explanation:**
 
-**Use CWT:**
+**Use CWT (Casio FX 580VNX ClassWiz calculator):**
+
+**Use CWT (Python - Computer):**
 
 **End:**
 
